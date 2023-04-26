@@ -5,37 +5,6 @@
 и настройки дополнительных возможностей
 [обратись к документации](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Создание репозитория по шаблону
-
-Используй этот репозиторий организации GoIT как шаблон для создания репозитория
-своего проекта. Для этого нажми на кнопку `«Use this template»` и выбери опцию
-`«Create a new repository»`, как показано на изображении.
-
-![Creating repo from a template step 1](./assets/template-step-1.png)
-
-На следующем шаге откроется страница создания нового репозитория. Заполни поле
-его имени, убедись что репозиторий публичный, после чего нажми кнопку
-`«Create repository from template»`.
-
-![Creating repo from a template step 2](./assets/template-step-2.png)
-
-После того как репозиторий будет создан, необходимо перейти в настройки
-созданного репозитория на вкладку `Settings` > `Actions` > `General` как
-показано на изображении.
-
-![Settings GitHub Actions permissions step 1](./assets/gh-actions-perm-1.png)
-
-Проскролив страницу до самого конца, в секции `«Workflow permissions»` выбери
-опцию `«Read and write permissions»` и поставь галочку в чекбоксе. Это
-необходимо для автоматизации процесса деплоя проекта.
-
-![Settings GitHub Actions permissions step 2](./assets/gh-actions-perm-2.png)
-
-Теперь у тебя есть личный репозиторий проекта, со структурой файлов и папок
-репозитория-шаблона. Далее работай с ним как с любым другим личным репозиторием,
-клонируй его себе на компьютер, пиши код, делай коммиты и отправляй их на
-GitHub.
-
 ## Подготовка к работе
 
 1. Убедись что на компьютере установлена LTS-версия Node.js.
@@ -82,7 +51,7 @@ GitHub.
 Через какое-то время, обычно пару минут, живую страницу можно будет посмотреть
 по адресу указанному в отредактированном свойстве `homepage`. Например, вот
 ссылка на живую версию для этого репозитория
-[https://goitacademy.github.io/react-homework-template](https://goitacademy.github.io/react-homework-template).
+[https://Koverin.github.io/tweets-test](https://Koverin.github.io/tweets-test).
 
 Если открывается пустая страница, убедись что во вкладке `Console` нет ошибок
 связанных с неправильными путями к CSS и JS файлам проекта (**404**). Скорее
